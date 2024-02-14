@@ -1,6 +1,9 @@
 # Junkie mac files 
 .DS_Store
 
+# ignore images
+*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
